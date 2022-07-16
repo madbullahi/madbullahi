@@ -1,6 +1,6 @@
-#Hello 😎
+**HELLO** 😎
 
-##**ABOUT ME**
+**ABOUT ME**
 
 🧔 I am MOh, an Ecotox technician and PhD scholar at the University of Birmingham, UK.
 

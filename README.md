@@ -2,7 +2,7 @@
 
 **ABOUT ME**
 
-🧔 I am MOh, an Ecotox technician and PhD scholar at the University of Birmingham, UK.
+🧔 I am Muhammad, an Ecotox technician and PhD scholar at the University of Birmingham, UK.
 
 👨‍🎓 I have an M.Sc. in Biotechnology from NDA, Kaduna.
 

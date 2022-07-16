@@ -1,5 +1,7 @@
 Hello 😎
 
+**ABOUT ME**
+
 🧔 I am MOh, an Ecotox technician and PhD scholar at the University of Birmingham, UK.
 👨‍🎓 I have an M.Sc. in Biotechnology from NDA, Kaduna.
 🐧 currently learning the linux command line and 
@@ -8,6 +10,9 @@ Hello 😎
 💥 fun fact: sleeping and eating steaks are my hubbies.
 
 
+
+
+**TECH STACK**
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)

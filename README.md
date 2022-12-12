@@ -2,11 +2,11 @@
 
 **ABOUT ME**
 
-🧔 I am Muhammad, an Ecotox technician and PhD scholar at the University of Birmingham, UK.
+🧔 I am Muhammad, PhD scholar at the University of Birmingham, UK.
 
 👨‍🎓 I have an M.Sc. in Biotechnology from NDA, Kaduna.
 
-🐧 currently learning the linux command line and
+🐧 currently learning the linux command line, Bioinformatics, machine learning and
 
 🐍 Python.
 

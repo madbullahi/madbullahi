@@ -2,15 +2,15 @@
 
 **ABOUT ME**
 
-🧔 I am Muhammad, PhD scholar at the University of Birmingham, UK.
+🧔 I am Muhammad, Research Associate at the University of Birmingham, UK.
 
-👨‍🎓 I have an M.Sc. in Biotechnology from NDA, Kaduna.
+👨‍🎓 I have a PhD in Biosciences from the University of Birmingham, UK.
 
-🐧 currently learning the linux command line, Bioinformatics, machine learning and
+🐧 currently learning Bioinformatics, machine learning, Statistics and
 
 🐍 Python.
 
-🙂 Interest: Soccer, hiking, writing technical articles, coding, and making steaks.
+🙂 Interests: Soccer, hiking, writing technical articles, coding, and making steaks.
 
 💥 fun fact: sleeping and eating steaks are my hubbies.
 
